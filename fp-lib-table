@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "OBD-Footprint") (type "KiCad") (uri "/home/shiva/Desktop/External_Libraries/C-OBD-II-16M/OBD-Footprint") (options "") (descr ""))
+	(lib (name "TCAN332D") (type "KiCad") (uri "/home/shiva/Desktop/External_Libraries/TCAN332D") (options "") (descr ""))
+)

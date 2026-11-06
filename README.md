@@ -140,4 +140,4 @@ Suggestions, design reviews, and improvements are welcome. When proposing hardwa
 
 ## License
 
-No license file was included in the supplied repository archive. Add a `LICENSE` file before specifying reuse, modification, or distribution permissions.
+No license file was included in as of now.
